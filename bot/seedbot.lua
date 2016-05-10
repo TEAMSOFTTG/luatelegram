@@ -223,6 +223,7 @@ function create_config( )
     "download_media",
     "invite",
     "all",
+    "gitpull",
     "leave_ban",
     "admin"
     },
